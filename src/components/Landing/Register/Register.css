@@ -1,0 +1,15 @@
+.regForm{
+    border: solid red 1px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.reg-div{
+    border: solid 1px blue
+}
+
+.outer-reg{
+    border: solid 2px green;
+    height: 50vh;
+}
